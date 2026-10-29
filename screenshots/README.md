@@ -1,5 +1,5 @@
-![Sales Dashboard](screenshots/dashboard-overview.png)
+![Sales Dashboard](dashboard-overview.png)
 
-![Geographic Analysis](screenshots/geographic-analysis.png)
+![Geographic Analysis](geographic-analysis.png)
 
-![Customer Segments](screenshots/top-segments.png)
+![Customer Segments](top-segments.png)
